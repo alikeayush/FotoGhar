@@ -37,7 +37,7 @@ This MERN (MongoDB, Express.js, React, Node.js) application is a feature-rich im
 ## Getting Started
 
 1. **Clone the Repository:**
-   ```bash
+
    git clone https://github.com/alikeayush/mern-project.git
    
 
