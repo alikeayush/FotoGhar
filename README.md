@@ -1,4 +1,4 @@
-# MERN Image Gallery
+# MERN Image Gallery(FotoGhar)
 
 This MERN (MongoDB, Express.js, React, Node.js) application is a feature-rich image gallery with user authentication, cloud image upload, image views tracking, and Redux integration.
 
