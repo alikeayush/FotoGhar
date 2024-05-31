@@ -47,4 +47,5 @@ This MERN (MongoDB, Express.js, React, Node.js) application is a feature-rich im
    npm startcd mern-projecty/client
    npm install
    npm start
+   live link
 
